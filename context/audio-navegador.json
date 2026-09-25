@@ -1,0 +1,33 @@
+{
+  "audios": [
+    {
+      "src": "voz.mp3",
+      "duration": 7.6
+    },
+    {
+      "src": "musica.mp3",
+      "duration": 20
+    },
+    {
+      "src": "xicara.mp3",
+      "duration": 0.49068
+    },
+    {
+      "src": "colher.mp3",
+      "duration": 6.942789
+    },
+    {
+      "src": "papel.mp3",
+      "duration": 1.056372
+    },
+    {
+      "src": "comparacao-a.mp3",
+      "duration": 20
+    },
+    {
+      "src": "comparacao-b.mp3",
+      "duration": 20
+    }
+  ],
+  "erros": []
+}

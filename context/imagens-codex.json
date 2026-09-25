@@ -1,0 +1,86 @@
+[
+  {
+    "aula": 1,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-c8afe19b-e607-4047-9163-38b3d3c14380.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Warm photoreal editorial wide shot in a small Brazilian book cafe. Duda, a 31-year-old woman with medium brown skin, short curly hair and navy shirt, and Sergio, a 56-year-old man with salt-and-pepper beard and green cardigan, listen to headphones beside a cream ceramic coffee cup, an open book and four blank storyboard cards. Daylight, wood, sage and cream. No readable text or logos.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 2,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-83a69a9a-d1ca-4116-984b-2168d0b8e3ce.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Didactic editorial still life in a book cafe: four distinct objects arranged as four audio layers: a microphone for voice, a small ukulele for music, cream cup and teaspoon for object sounds, an open window with curtain for room atmosphere. No words, no labels, no headphones playing visibly, crisp tactile photo.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 3,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-7bae94c3-e79c-4ee0-ad28-15116fd39173.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Overhead archive desk with a laptop showing abstract sound waveforms without readable UI, four audio asset cards each with a tiny sound icon and a paperclip attaching a blank provenance receipt. A cream cup, book, pencil. Visual focus is organized media sources and usage records, photoreal.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 4,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-02c78254-4b03-4aab-a966-17b20ad08257.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Duda recording a short narration at a desktop microphone in quiet book cafe office, mouth at modest distance from mic and slightly off-axis, one hand holds a small script with abstract marks not readable words. Sergio listens at the table. Natural documentary photo.",
+    "edicao": "Edit the FIRST image, preserve scene composition and action. Replace both people with the exact two fictional people from the SECOND reference image: Duda is the woman in navy shirt, medium brown skin, short curly dark hair; Sergio is the older man with gray curly hair, salt-and-pepper beard, green cardigan and cream shirt. They must visibly be the same people as the second reference. Duda speaks into microphone while holding script. Sergio listens. No added text.",
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 5,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-87662443-ec4b-484a-a5fc-0214db21c787.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Close overhead view of three paper sentence cards and three matching blue waveform strips on a wooden editing desk, with scissors and a cream cup. The middle strip is separate for correction while first and last remain intact. No text. Tactile editorial photo of audio line editing.",
+    "edicao": "Edit this image only: replace the three picture cards of dog, mountain and traveler with three simple cream script cards showing a few fine abstract gray lines, no readable text. Preserve the three blue waveform strips below, separated middle strip, scissors, desk and coffee. No photos or illustrations on the script cards.",
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 6,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-812c32ee-5860-4a0a-a819-c13823429b51.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Conceptual editorial photo of a ukulele and small keyboard with two mood cards: a peaceful sunlit book cafe and an overly dramatic stormy city, illustrating musical mood selection for a calm cafe advertisement. No sheet music detail, no text, clear visual comparison.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 7,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-a354b2b0-39a1-4a29-89d2-ba3dcb828553.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Three-panel photoreal sequence of hands with a cream ceramic cup and open book: cup placed onto wooden table, teaspoon stirs coffee, hand turns one book page. Consistent warm book cafe setting. Clearly separated panels, real anatomy, no words.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 8,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-e463bda0-4e64-4b41-a7da-b7eac57be745.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Tactile educational overhead diagram made of two parallel rows of colored paper blocks on a neutral cream table. Upper row contains two adjacent photo cards: book page turning then cup placed down. Lower row is a blue sound waveform strip beginning before the boundary and continuing after it. Thin vertical line shows image cut. No letters or numbers.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 9,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-f203945c-3596-421e-89e4-0f9944d00461.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Clean educational still life of a blue waveform strip for spoken words above an amber music ribbon that slopes smoothly down under the voice then up after voice ends. Four small round control points at the slopes. Cream paper, soft shadows, no interface logos or words. Emphasize ducking not silence.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 10,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-156898ac-54f3-4fe1-ae92-5d69f87d6dfc.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Duda and Sergio listening to the same edit with small phone speaker on table and headphones nearby, attentive expressions. A laptop shows four colored audio lanes and restrained waveform peaks without readable UI. Warm book cafe, cream cup, no logos. Duda is 31 with medium brown skin, short curly dark hair, navy button shirt. Sergio is 56 with gray curly hair and salt-and-pepper beard, green cardigan and cream shirt. ",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 11,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-15991c09-1c14-43fe-a292-b2969fbc8085.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Neatly organized sound library as six blank labeled-tab folders with tiny pictograms of microphone, ukulele, cup, spoon, page and room. A simple index notebook with abstract marks, warm editorial overhead photo. No readable words. Folder categories visibly distinct.",
+    "edicao": null,
+    "ferramenta": "Codex image_gen"
+  },
+  {
+    "aula": 12,
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-ea3848d5-348e-41f7-868c-46585caff252.png",
+    "prompt": "Create a polished 16:9 horizontal educational illustration, no text and no logos. Wide photoreal editorial view of Duda and Sergio at finished listening session in the book cafe. Two matching printed storyboards of a cup, spoon and page on the table, two audio waveform strips representing A and B, laptop showing abstract player. Calm daylight, no success badges, no readable words. Duda is 31 with medium brown skin, short curly dark hair, navy button shirt. Sergio is 56 with gray curly hair and salt-and-pepper beard, green cardigan and cream shirt. ",
+    "edicao": "Edit the FIRST image, preserve scene composition and action. Replace both people with the exact two fictional people from the SECOND reference image: Duda is the woman in navy shirt, medium brown skin, short curly dark hair; Sergio is the older man with gray curly hair, salt-and-pepper beard, green cardigan and cream shirt. They must visibly be the same people as the second reference. Duda and Sergio review the two printed storyboards and audio strips. No added text.",
+    "ferramenta": "Codex image_gen"
+  }
+]

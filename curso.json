@@ -1,0 +1,51 @@
+{
+  "id": "audio-video-ia-v62",
+  "titulo": "Áudio que Vende: Voz, Música e Sound Design v6.2",
+  "titulo_html": "A mensagem <em>também se ouve</em>",
+  "curso_curto": "Áudio e Sound Design v6.2",
+  "kicker": "Áudio e Sound Design v6.2 · 4 módulos · 12 aulas",
+  "lead": "Prepare uma voz clara, escolha música e efeitos, organize quatro camadas e compare duas versões da sua peça.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Produtora e livreiro escutam referências para uma peça de livraria com café.",
+  "rodape": "Áudio e Sound Design v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Escutar, planejar e escolher fontes",
+      "resumo": "Defina a função do som, organize quatro camadas e obtenha arquivos que você pode reutilizar.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Voz e música com intenção",
+      "resumo": "Produza uma fala curta, corrija frases e escolha música que deixe espaço para a mensagem.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Efeitos, cortes e controle de volume",
+      "resumo": "Sincronize ações, teste passagens entre planos e faça a música abrir espaço para a voz.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Mistura, biblioteca e entrega",
+      "resumo": "Revise a hierarquia em aparelhos diferentes, organize os arquivos e exporte uma comparação com e sem efeitos.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    }
+  ]
+}

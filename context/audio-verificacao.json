@@ -1,0 +1,65 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "ambiente.mp3",
+      "segundos": 20.0,
+      "pico_dbfs": -22.8799991607666,
+      "rms_dbfs": -35.45000076293945,
+      "bytes": 401285
+    },
+    {
+      "arquivo": "colher.mp3",
+      "segundos": 6.943,
+      "pico_dbfs": -9.789999961853027,
+      "rms_dbfs": -25.59000015258789,
+      "bytes": 140061
+    },
+    {
+      "arquivo": "comparacao-a.mp3",
+      "segundos": 20.0,
+      "pico_dbfs": -5.75,
+      "rms_dbfs": -24.40999984741211,
+      "bytes": 401285
+    },
+    {
+      "arquivo": "comparacao-b.mp3",
+      "segundos": 20.0,
+      "pico_dbfs": -5.75,
+      "rms_dbfs": -23.219999313354492,
+      "bytes": 401285
+    },
+    {
+      "arquivo": "musica.mp3",
+      "segundos": 20.0,
+      "pico_dbfs": -6.909999847412109,
+      "rms_dbfs": -22.959999084472656,
+      "bytes": 401285
+    },
+    {
+      "arquivo": "papel.mp3",
+      "segundos": 1.056,
+      "pico_dbfs": -10.460000038146973,
+      "rms_dbfs": -25.8799991607666,
+      "bytes": 22510
+    },
+    {
+      "arquivo": "voz.mp3",
+      "segundos": 7.6,
+      "pico_dbfs": -6.460000038146973,
+      "rms_dbfs": -22.329999923706055,
+      "bytes": 153122
+    },
+    {
+      "arquivo": "xicara.mp3",
+      "segundos": 0.491,
+      "pico_dbfs": -10.579999923706055,
+      "rms_dbfs": -26.43000030517578,
+      "bytes": 11016
+    }
+  ],
+  "comparacao": "A e B têm a mesma base; B acrescenta xícara a 0,5s, colher a 11s e página a 18s. Mesmo ganho global nas duas.",
+  "voz_inicio": 2,
+  "voz_fim": 9.6,
+  "transcricao": " Entre uma página e outra, faça uma pausa. Aqui, você encontra café e boas histórias. Escolha seu próximo capítulo.",
+  "metodo": "INEMAVOX Chatterbox, download INEMAVOX, mistura local, análise numérica e transcrição Groq. Não equivale a avaliação auditiva humana."
+}

@@ -1,0 +1,626 @@
+[
+  {
+    "titulo": "Desenhe a emoção em quatro momentos",
+    "entrega": "planejar uma sequência sonora curta com começo, crescimento, destaque e saída",
+    "dor": "Uma música bonita pode competir com a mensagem. Antes de editar, decida o que a pessoa precisa perceber em cada momento.",
+    "antes": "Colocar uma música animada porque ela parece profissional.",
+    "depois": "Definir pausa acolhedora e escolher sons que sustentem essa intenção.",
+    "campos": [
+      "Entrada: apresentar a livraria",
+      "Destaque: convite para uma pausa",
+      "Saída: deixar a mensagem respirar"
+    ],
+    "passos": [
+      "Escolha um vídeo próprio de cerca de vinte segundos ou planeje uma sequência de três imagens.",
+      "Divida o tempo em quatro momentos e escreva a função de cada um.",
+      "Anote um som desejado e um som que atrapalharia. Salve o mapa antes de buscar arquivos."
+    ],
+    "molde": "Peça: <nome>\nPúblico: <quem>\nIntenção: <sensação e mensagem>\n0–4 s: entrada\n4–10 s: desenvolvimento\n10–16 s: destaque\n16–20 s: saída\nSons desejados / evitar: <lista>",
+    "pronto": "um mapa associa cada momento da peça a uma intenção sonora",
+    "confira": "O som deve ajudar a perceber a mensagem, sem depender de volume alto para parecer importante.",
+    "calma": "Se não tiver vídeo, use três fotos próprias para planejar. A montagem será feita mais adiante.",
+    "q": "A peça convida a ler com calma. Qual escolha merece primeiro teste?",
+    "opcoes": [
+      "Som suave que deixe o convite compreensível",
+      "Impactos altos em todas as mudanças de imagem",
+      "A música mais rápida para esconder as pausas"
+    ],
+    "correta": 0,
+    "observacao": "Duda e Sérgio escutam referências ao lado de quatro cartões. A imagem representa planejamento, não um teste de público realizado.",
+    "ex1": "Duda, produtora de 31 anos, escreve a intenção antes de abrir o editor.",
+    "ex2": "Sérgio, livreiro de 56 anos, quer que a fala seja compreendida no celular.",
+    "tarefa": "Desenhe a emoção em quatro momentos",
+    "resumo": [
+      "Entrada: apresentar a livraria",
+      "Destaque: convite para uma pausa",
+      "Saída: deixar a mensagem respirar"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A peça convida a ler com calma. Qual escolha merece primeiro teste?",
+        "Som suave que deixe o convite compreensível"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "O som deve ajudar a perceber a mensagem, sem depender de volume alto para parecer importante."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "um mapa associa cada momento da peça a uma intenção sonora"
+      ]
+    ]
+  },
+  {
+    "titulo": "Separe voz, música, efeitos e ambiente",
+    "entrega": "distribuir os sons em quatro camadas com funções diferentes",
+    "dor": "Quando tudo fica no mesmo arquivo, corrigir uma camada pode estragar outra. Organize as funções antes de misturar.",
+    "antes": "Juntar todos os sons e aumentar o volume geral.",
+    "depois": "Ouvir a voz primeiro e acrescentar uma camada de cada vez.",
+    "campos": [
+      "Voz: convite falado",
+      "Música: clima acolhedor",
+      "Efeitos e ambiente: ação e espaço"
+    ],
+    "passos": [
+      "Baixe e extraia o kit pelo aplicativo de arquivos. Use voz, musica, xicara, colher, papel e ambiente. Guarde comparacao-a e comparacao-b separadas como demonstrações.",
+      "Crie quatro pastas: voz, música, efeitos e ambiente. Coloque cada arquivo na função principal.",
+      "Ouça cada arquivo e anote onde pretende usá-lo. Um arquivo sem função fica fora da montagem inicial."
+    ],
+    "molde": "Voz: <arquivo e mensagem>\nMúsica: <arquivo e clima>\nEfeitos: <três arquivos e ações>\nAmbiente: <arquivo e espaço>\nFora da primeira montagem: <arquivo e motivo>",
+    "pronto": "os arquivos escolhidos estão separados por função e têm um uso descrito",
+    "confira": "Uma camada deve justificar sua presença pela contribuição à peça.",
+    "calma": "As comparações A e B são misturas prontas, não camadas isoladas. Use os seis arquivos de fontes nesta prática.",
+    "q": "A fala some quando a música entra. O que investigar primeiro?",
+    "opcoes": [
+      "Aumentar igualmente o volume de todas as faixas",
+      "Ouvir a voz isolada e reduzir a música no trecho",
+      "Trocar o nome da faixa sem alterar o resultado"
+    ],
+    "correta": 1,
+    "observacao": "Microfone, instrumento, xícara e janela representam quatro funções. Os objetos são uma metáfora didática, não equipamentos necessários.",
+    "ex1": "Duda mantém os efeitos em arquivos separados para ajustar cada entrada.",
+    "ex2": "Sérgio percebe que o ruído de sala deve ficar no fundo, sem disputar a frase.",
+    "tarefa": "Separe voz, música, efeitos e ambiente",
+    "resumo": [
+      "Voz: convite falado",
+      "Música: clima acolhedor",
+      "Efeitos e ambiente: ação e espaço"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A fala some quando a música entra. O que investigar primeiro?",
+        "Ouvir a voz isolada e reduzir a música no trecho"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Uma camada deve justificar sua presença pela contribuição à peça."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "os arquivos escolhidos estão separados por função e têm um uso descrito"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte um kit com origem e licença registradas",
+    "entrega": "organizar arquivos de áudio com fontes e condições de reutilização",
+    "dor": "Encontrar um som para ouvir não significa poder redistribuí-lo. O kit do projeto precisa preservar a origem e os créditos.",
+    "antes": "Guardar sons como audio1 e audio2 sem saber de onde vieram.",
+    "depois": "Relacionar nome, autor, fonte, licença e alterações de cada arquivo.",
+    "campos": [
+      "Música: Carefree, Kevin MacLeod, CC BY 4.0",
+      "Efeitos: fontes CC0 identificadas no kit",
+      "Registro: origem e alterações preservadas"
+    ],
+    "passos": [
+      "Abra os créditos do kit e confira as fontes da música e dos efeitos.",
+      "Baixe uma cópia e preencha o registro para os arquivos que pretende usar.",
+      "Escreva o crédito da música na ficha da peça. Marque qualquer fonte sem condição clara como pendente."
+    ],
+    "molde": "Arquivo: <nome>\nAutor: <nome>\nFonte: <endereço>\nLicença: <nome e endereço>\nUso pretendido: <peça ou fonte separada>\nAlterações: <corte, volume, mistura>\nCrédito a publicar: <texto>",
+    "pronto": "cada arquivo escolhido tem origem, condição de uso e crédito registrados",
+    "confira": "Conseguir baixar o arquivo não substitui conferir a condição de uso.",
+    "calma": "Use os arquivos do kit e seus créditos como primeiro exemplo. Você não precisa criar uma conta de biblioteca para começar.",
+    "q": "Uma biblioteca permite usar música no vídeo. Isso prova que pode redistribuir o MP3?",
+    "opcoes": [
+      "Sim, qualquer acesso pago transfere todos os direitos",
+      "Sim, basta renomear o arquivo antes de compartilhar",
+      "Não; é preciso conferir a permissão para esse uso"
+    ],
+    "correta": 2,
+    "observacao": "Fichas e comprovantes representam o registro de origem. A tela ilustrada não é a interface de um serviço para baixar arquivos.",
+    "ex1": "Duda mantém o crédito junto da versão exportada, não apenas na pasta de trabalho.",
+    "ex2": "Sérgio consegue localizar a fonte quando outra pessoa pergunta sobre a música.",
+    "tarefa": "Monte um kit com origem e licença registradas",
+    "resumo": [
+      "Música: Carefree, Kevin MacLeod, CC BY 4.0",
+      "Efeitos: fontes CC0 identificadas no kit",
+      "Registro: origem e alterações preservadas"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "Uma biblioteca permite usar música no vídeo. Isso prova que pode redistribuir o MP3?",
+        "Não; é preciso conferir a permissão para esse uso"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Conseguir baixar o arquivo não substitui conferir a condição de uso."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "cada arquivo escolhido tem origem, condição de uso e crédito registrados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Produza uma fala curta em português",
+    "entrega": "salvar e revisar uma narração curta gravada ou sintetizada",
+    "dor": "A voz precisa soar compreensível antes de receber música. Um texto longo e sem pausas dificulta tanto a gravação quanto a síntese.",
+    "antes": "Gerar um parágrafo longo e aprovar sem ouvir.",
+    "depois": "Produzir três frases curtas e conferir cada palavra no arquivo salvo.",
+    "campos": [
+      "Texto: três frases com uma mensagem",
+      "Revisão: palavras, nomes e pausas",
+      "Evidência: áudio salvo e ouvido"
+    ],
+    "passos": [
+      "Copie o roteiro e adapte a marca e o convite. Leia e ajuste a extensão ao seu vídeo.",
+      "Grave sua voz ou gere na ferramenta disponível. Baixe o arquivo; se não conseguir, deixe a produção pendente.",
+      "Ouça o áudio inteiro acompanhando o texto. Anote duração, palavras corretas e trechos a refazer."
+    ],
+    "molde": "Texto: <três frases>\nCaminho: <gravação ou síntese>\nVoz e configuração: <usadas>\nArquivo: <nome real>\nDuração: <medida>\nConferência: <palavras, pausas, ruído>\nRefazer: <trecho ou nenhum>",
+    "pronto": "existe um arquivo de voz salvo, ouvido por inteiro e conferido com o roteiro",
+    "confira": "O arquivo gerado pode existir e ainda conter uma palavra errada. Ouça antes de aprovar.",
+    "calma": "Sem serviço de voz, o gravador do celular permite executar a prática. O kit ajuda a estudar, mas não substitui sua própria revisão.",
+    "q": "O arquivo existe, mas o nome da marca saiu errado. Qual é o estado?",
+    "opcoes": [
+      "Produzido, porém ainda precisa de correção",
+      "Aprovado porque o arquivo tem duração suficiente",
+      "Concluído porque o texto enviado estava correto"
+    ],
+    "correta": 0,
+    "observacao": "A imagem ilustra uma gravação. Para captar voz limpa, procure um local mais silencioso que uma cafeteria em funcionamento.",
+    "ex1": "Duda limita o primeiro teste a um texto que consegue conferir inteiro.",
+    "ex2": "Sérgio grava a própria voz e percebe uma palavra corrida antes de colocar a música.",
+    "tarefa": "Produza uma fala curta em português",
+    "resumo": [
+      "Texto: três frases com uma mensagem",
+      "Revisão: palavras, nomes e pausas",
+      "Evidência: áudio salvo e ouvido"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "O arquivo existe, mas o nome da marca saiu errado. Qual é o estado?",
+        "Produzido, porém ainda precisa de correção"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "O arquivo gerado pode existir e ainda conter uma palavra errada. Ouça antes de aprovar."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "existe um arquivo de voz salvo, ouvido por inteiro e conferido com o roteiro"
+      ]
+    ]
+  },
+  {
+    "titulo": "Corrija uma frase sem perder a voz do conjunto",
+    "entrega": "editar ou substituir um trecho de voz e conferir a passagem",
+    "dor": "Refazer tudo por uma palavra pode mudar a interpretação inteira. Localize a falha e compare uma substituição pequena.",
+    "antes": "Regerar toda a narração até uma palavra melhorar por acaso.",
+    "depois": "Separar a frase, corrigir e ouvir a emenda entre as vizinhas.",
+    "campos": [
+      "Trecho: frase localizada por tempo",
+      "Correção: mesma voz e intenção",
+      "Teste: ouvir antes, emenda e depois"
+    ],
+    "passos": [
+      "Importe uma cópia da voz no CapCut. Escolha uma frase para corrigir ou reduzir uma pausa excessiva.",
+      "Separe o trecho e faça a alteração. Preserve palavras inteiras e verifique se a versão antiga não toca junto.",
+      "Ouça a passagem com as frases vizinhas. Exporte uma prévia e registre se a emenda ficou natural ou precisa de ajuste."
+    ],
+    "molde": "Arquivo original: <nome>\nTrecho: <início e fim>\nProblema ou teste: <qual>\nAlteração: <recorte ou nova tomada>\nArquivo de prévia: <nome>\nEmenda: <natural ou ajustar e motivo>",
+    "pronto": "uma prévia da voz editada foi exportada e a emenda foi conferida",
+    "confira": "Uma correção local só ajuda se continuar combinando com as frases ao redor.",
+    "calma": "Se a voz já está boa, faça um teste de pausa numa cópia. Não invente um erro para cumprir a aula.",
+    "q": "A palavra melhorou, mas a nova frase parece outra pessoa. O que fazer?",
+    "opcoes": [
+      "Aprovar porque a palavra isolada está correta",
+      "Revisar a tomada e conferir novamente no conjunto",
+      "Aumentar a música para esconder toda a narração"
+    ],
+    "correta": 1,
+    "observacao": "Três cartões e faixas representam trechos independentes. É uma metáfora de edição, não uma medição real de áudio.",
+    "ex1": "Duda mantém o original para desfazer uma emenda que ficou artificial.",
+    "ex2": "Sérgio escuta as três frases juntas antes de decidir que o ajuste funcionou.",
+    "tarefa": "Corrija uma frase sem perder a voz do conjunto",
+    "resumo": [
+      "Trecho: frase localizada por tempo",
+      "Correção: mesma voz e intenção",
+      "Teste: ouvir antes, emenda e depois"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A palavra melhorou, mas a nova frase parece outra pessoa. O que fazer?",
+        "Revisar a tomada e conferir novamente no conjunto"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Uma correção local só ajuda se continuar combinando com as frases ao redor."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "uma prévia da voz editada foi exportada e a emenda foi conferida"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escolha música pelo espaço que ela deixa",
+    "entrega": "selecionar um trecho musical com função e condição de uso registradas",
+    "dor": "Uma música cheia de voz e instrumentos pode disputar com o narrador. Escolha pelo que ela permite ouvir na peça.",
+    "antes": "Escolher música pela fama e deixar o narrador disputar com ela.",
+    "depois": "Comparar clima e clareza da voz, guardando a licença do trecho escolhido.",
+    "campos": [
+      "Função: acolher sem encobrir a fala",
+      "Escolha: trecho com entrada e saída",
+      "Registro: fonte, licença e alterações"
+    ],
+    "passos": [
+      "Abra a música do kit e sua voz no editor. Ouça um trecho com as duas camadas.",
+      "Escolha cerca de vinte segundos ou a duração da sua peça. Ajuste o recorte e ouça o início e o fim.",
+      "Registre por que o trecho combina com a intenção e preserve o crédito. Gerar no Suno é opção adicional, não requisito desta prática."
+    ],
+    "molde": "Música e autor: <nomes>\nTrecho: <início e duração>\nFunção: <clima e ritmo>\nVoz compreensível: <sim ou ajustar>\nFonte e licença: <links>\nCrédito: <texto>\nAlternativa gerada: <opcional, status real>\nAlterações do trecho: <recorte, nível e fades>",
+    "pronto": "um trecho foi selecionado, ouvido junto da voz e registrado com sua fonte",
+    "confira": "A escolha musical precisa preservar tanto a mensagem quanto as condições de uso.",
+    "calma": "Comece com a faixa do kit. Você pode concluir esta prática sem gerar música nem contratar outro serviço.",
+    "q": "O instrumental funciona sozinho, mas encobre a frase. Qual critério prevalece?",
+    "opcoes": [
+      "Manter o volume porque a música é o arquivo maior",
+      "Aceitar porque o gênero combina com a decoração",
+      "Preservar a clareza da fala e ajustar a música"
+    ],
+    "correta": 2,
+    "observacao": "Os dois climas ilustrados mostram possibilidades contrastantes. A imagem não afirma uma reação universal nem apresenta saída do Suno.",
+    "ex1": "Duda testa a música sob a voz antes de escolher o trecho final.",
+    "ex2": "Sérgio prefere entender o convite a impressionar pelo volume da trilha.",
+    "tarefa": "Escolha música pelo espaço que ela deixa",
+    "resumo": [
+      "Função: acolher sem encobrir a fala",
+      "Escolha: trecho com entrada e saída",
+      "Registro: fonte, licença e alterações"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "O instrumental funciona sozinho, mas encobre a frase. Qual critério prevalece?",
+        "Preservar a clareza da fala e ajustar a música"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "A escolha musical precisa preservar tanto a mensagem quanto as condições de uso."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "um trecho foi selecionado, ouvido junto da voz e registrado com sua fonte"
+      ]
+    ]
+  },
+  {
+    "titulo": "Dê uma função a cada efeito",
+    "entrega": "posicionar três efeitos em ações ou mudanças de imagem",
+    "dor": "Efeitos em excesso transformam uma cena simples numa sequência barulhenta. Escolha poucos sons e confira o momento de entrada.",
+    "antes": "Colocar um impacto forte em toda troca de imagem.",
+    "depois": "Sincronizar xícara, colher e página com suas ações e ajustar a intensidade.",
+    "campos": [
+      "Xícara: contato com a superfície",
+      "Colher: movimento dentro da xícara",
+      "Página: virada ou mudança de quadro"
+    ],
+    "passos": [
+      "Importe os três efeitos do kit para seu projeto de vídeo ou três imagens. Ouça cada um isolado.",
+      "Posicione cada efeito numa ação visível. Se usar fotos, sincronize com a mudança de imagem e registre essa escolha.",
+      "Ouça com a voz e reduza efeitos que encobrem palavras. Salve o projeto com as três posições anotadas."
+    ],
+    "molde": "Efeito 1: <arquivo, tempo, ação>\nEfeito 2: <arquivo, tempo, ação>\nEfeito 3: <arquivo, tempo, ação>\nSincronia: <ação real ou troca de foto>\nAjustes de volume: <quais>",
+    "pronto": "três efeitos estão posicionados, ouvidos e relacionados a uma ação ou mudança de imagem",
+    "confira": "O efeito precisa ajudar a perceber a ação, sem competir com a palavra importante.",
+    "calma": "Se você usa fotos, não afirme que sincronizou movimento. Registre o som como pontuação da mudança de imagem.",
+    "q": "O som começa tarde porque há silêncio no início do arquivo. O que ajustar?",
+    "opcoes": [
+      "Alinhar o começo audível ao evento pretendido",
+      "Aumentar o volume geral de todas as faixas",
+      "Trocar a cor da faixa para marcar o problema"
+    ],
+    "correta": 0,
+    "observacao": "Os três quadros representam xícara, colher e página. O primeiro mostra xícara sobre pires; escolha um som compatível com a superfície do seu vídeo.",
+    "ex1": "Duda escuta o começo audível antes de alinhar o arquivo à imagem.",
+    "ex2": "Sérgio remove um efeito que atrapalhava o nome da livraria.",
+    "tarefa": "Dê uma função a cada efeito",
+    "resumo": [
+      "Xícara: contato com a superfície",
+      "Colher: movimento dentro da xícara",
+      "Página: virada ou mudança de quadro"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "O som começa tarde porque há silêncio no início do arquivo. O que ajustar?",
+        "Alinhar o começo audível ao evento pretendido"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "O efeito precisa ajudar a perceber a ação, sem competir com a palavra importante."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "três efeitos estão posicionados, ouvidos e relacionados a uma ação ou mudança de imagem"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use cinco movimentos de edição com intenção",
+    "entrega": "testar uma passagem em que som e imagem mudam em momentos diferentes",
+    "dor": "Cortar áudio e imagem sempre no mesmo ponto pode deixar uma montagem rígida. O som também pode preparar ou prolongar uma cena.",
+    "antes": "Arrastar qualquer áudio e chamar o resultado de corte J.",
+    "depois": "Identificar o som da próxima cena e fazê-lo chegar antes da imagem.",
+    "campos": [
+      "Corte J: som seguinte chega antes",
+      "Corte L: som anterior permanece",
+      "Escolha: uma passagem com motivo"
+    ],
+    "passos": [
+      "Salve uma cópia do projeto e escolha dois planos ou duas imagens consecutivas.",
+      "Teste um corte J ou L deslocando apenas o som correspondente. Anote o ponto de troca da imagem e a entrada ou saída do áudio.",
+      "Assista a passagem antes e depois. Guarde a versão mais clara e explique por que manteve ou desfez o teste."
+    ],
+    "molde": "Tipo testado: <J ou L>\nCena de origem do som: <qual>\nTroca visual: <tempo>\nEntrada ou saída sonora: <tempo>\nEfeito percebido: <descrição>\nDecisão: <manter ou desfazer>",
+    "pronto": "uma passagem foi testada e a relação temporal entre som e imagem foi registrada",
+    "confira": "A letra do nome não importa mais que entender qual som antecipa ou prolonga qual cena.",
+    "calma": "Use uma mudança simples. Você pode manter o corte original se a alternativa não melhorar a passagem.",
+    "q": "A fala da primeira cena continua enquanto a segunda imagem aparece. Isso é?",
+    "opcoes": [
+      "Corte J, pois toda fala antecipa a imagem seguinte",
+      "Corte L, pois o som anterior continua após a troca",
+      "Silêncio, pois a segunda cena ainda não tem voz"
+    ],
+    "correta": 1,
+    "observacao": "A faixa de som atravessa a troca visual. O desenho não identifica a origem de cada trecho; use a ficha para distinguir J de L.",
+    "ex1": "Duda testa a passagem sem mudar música e cor ao mesmo tempo.",
+    "ex2": "Sérgio descreve primeiro o que ouviu, depois aprende o nome do recurso.",
+    "tarefa": "Use cinco movimentos de edição com intenção",
+    "resumo": [
+      "Corte J: som seguinte chega antes",
+      "Corte L: som anterior permanece",
+      "Escolha: uma passagem com motivo"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A fala da primeira cena continua enquanto a segunda imagem aparece. Isso é?",
+        "Corte L, pois o som anterior continua após a troca"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "A letra do nome não importa mais que entender qual som antecipa ou prolonga qual cena."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "uma passagem foi testada e a relação temporal entre som e imagem foi registrada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Faça a música baixar durante a fala",
+    "entrega": "criar e revisar uma redução gradual da música sob a narração",
+    "dor": "A voz não precisa vencer uma disputa de volume. Você pode abrir espaço para ela nos momentos certos.",
+    "antes": "Aumentar a voz sempre que a música encobrir uma palavra.",
+    "depois": "Reduzir a música durante a fala e conferir a entrada e a recuperação.",
+    "campos": [
+      "Antes: música no nível escolhido",
+      "Durante: palavras compreensíveis",
+      "Depois: retorno gradual da música"
+    ],
+    "passos": [
+      "Escolha uma frase e localize a faixa de música. Marque o começo e o fim da fala.",
+      "Crie quatro pontos de volume ou divida em trechos com transições suaves. Ouça sem alterar o volume do aparelho.",
+      "Exporte uma prévia e confira a primeira palavra, o final e a volta da música. Registre o ajuste necessário ou aprovado."
+    ],
+    "molde": "Frase: <qual>\nInício / fim: <tempos>\nMétodo: <pontos ou trechos>\nNível antes / durante / depois: <valores usados>\nPrévia: <arquivo>\nResultado: <claro ou corrigir e motivo>",
+    "pronto": "uma prévia foi exportada e a redução da música foi conferida durante a fala",
+    "confira": "Avalie a clareza e a suavidade pelo áudio, sem transformar números em garantia.",
+    "calma": "Se não encontrar pontos de volume, use trechos separados com fades. Faça o teste numa cópia para comparar.",
+    "q": "A primeira palavra some antes da música baixar. Qual ajuste testar?",
+    "opcoes": [
+      "Atrasar ainda mais a redução para preservar a música",
+      "Subir todas as faixas igualmente no mesmo instante",
+      "Antecipar a redução e conferir a primeira palavra"
+    ],
+    "correta": 2,
+    "observacao": "A curva representa música baixando sob a voz. Não é uma captura do CapCut nem uma medição dos arquivos do kit.",
+    "ex1": "Duda verifica a primeira sílaba, não apenas o meio da frase.",
+    "ex2": "Sérgio escuta a volta da música para evitar um salto que distraia.",
+    "tarefa": "Faça a música baixar durante a fala",
+    "resumo": [
+      "Antes: música no nível escolhido",
+      "Durante: palavras compreensíveis",
+      "Depois: retorno gradual da música"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A primeira palavra some antes da música baixar. Qual ajuste testar?",
+        "Antecipar a redução e conferir a primeira palavra"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Avalie a clareza e a suavidade pelo áudio, sem transformar números em garantia."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "uma prévia foi exportada e a redução da música foi conferida durante a fala"
+      ]
+    ]
+  },
+  {
+    "titulo": "Revise a mistura pela mensagem que sobrevive",
+    "entrega": "identificar e corrigir uma disputa entre camadas de áudio",
+    "dor": "Uma mistura agradável no fone pode perder palavras no celular. Confira a peça no contexto em que será ouvida.",
+    "antes": "Aumentar tudo porque no celular parece baixo.",
+    "depois": "Localizar a camada que encobre a fala e conferir uma correção por vez.",
+    "campos": [
+      "Diagnóstico: uma camada de cada vez",
+      "Ajuste: corrigir a causa observada",
+      "Revisão: arquivo exportado em aparelhos disponíveis"
+    ],
+    "passos": [
+      "No seu projeto editável, ouça a voz isolada e depois as outras camadas. Os MP3 A/B são misturas prontas. Anote um conflito ou nenhum observado.",
+      "Se houver conflito, ajuste apenas a camada responsável. Se não houver, compare a retirada temporária de um efeito numa cópia.",
+      "Exporte uma prévia e confira nos aparelhos disponíveis. Registre limitações e a decisão de manter ou desfazer."
+    ],
+    "molde": "Trecho: <tempo>\nConflito: <qual ou nenhum observado>\nCamada testada: <nome>\nAjuste: <qual>\nPrévia: <arquivo>\nFone / celular: <observação ou pendente>\nDecisão: <manter ou desfazer>",
+    "pronto": "uma prévia foi ouvida e uma decisão de mistura foi registrada com sua evidência",
+    "confira": "A mensagem precisa continuar compreensível fora do editor.",
+    "calma": "Não é obrigatório encontrar defeito. Registre o que conferiu e preserve a versão que comunica melhor.",
+    "q": "A fala é clara isolada e perde palavras quando um impacto toca. O que testar?",
+    "opcoes": [
+      "Reduzir ou reposicionar o impacto que compete",
+      "Aumentar todas as camadas na mesma proporção",
+      "Mudar a imagem sem conferir novamente o som"
+    ],
+    "correta": 0,
+    "observacao": "Os personagens comparam escuta no telefone e no fone. As ondas da tela são ilustrativas e não comprovam níveis medidos.",
+    "ex1": "Duda anota o instante do conflito para não refazer a mistura inteira.",
+    "ex2": "Sérgio confere se entende o convite sem acompanhar o texto na tela.",
+    "tarefa": "Revise a mistura pela mensagem que sobrevive",
+    "resumo": [
+      "Diagnóstico: uma camada de cada vez",
+      "Ajuste: corrigir a causa observada",
+      "Revisão: arquivo exportado em aparelhos disponíveis"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A fala é clara isolada e perde palavras quando um impacto toca. O que testar?",
+        "Reduzir ou reposicionar o impacto que compete"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "A mensagem precisa continuar compreensível fora do editor."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "uma prévia foi ouvida e uma decisão de mistura foi registrada com sua evidência"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie uma biblioteca que você consegue reutilizar",
+    "entrega": "guardar fontes, versões e créditos numa estrutura de áudio recuperável",
+    "dor": "Uma pasta cheia de final2 e novo3 faz você perder o som certo. Nome e registro simples economizam tempo no próximo projeto.",
+    "antes": "Guardar audio_final_novo e esquecer quais sons foram usados.",
+    "depois": "Separar originais, edições e exportações com uma ficha de fontes.",
+    "campos": [
+      "Pastas: originais, edições, exportações",
+      "Nomes: objeto, ação e variante",
+      "Ficha: uso real, fonte e crédito"
+    ],
+    "passos": [
+      "Crie as três pastas e copie os arquivos correspondentes sem apagar as fontes.",
+      "Renomeie cópias com nomes descritivos e preencha a ficha dos sons usados.",
+      "Abra o projeto novamente e confira se encontra todos os arquivos. Guarde o projeto e a ficha junto da entrega."
+    ],
+    "molde": "Original: <nome e fonte>\nCópia editada: <nome>\nAlterações: <quais>\nUsado na peça: <sim ou não>\nCrédito: <texto>\nProjeto correspondente: <nome>\nVínculos conferidos: <sim ou pendente>",
+    "pronto": "a biblioteca está organizada e o projeto reaberto encontra os arquivos necessários",
+    "confira": "Você precisa conseguir reconstruir a mistura a partir do projeto e das fontes guardadas.",
+    "calma": "Se um arquivo sumir do editor após mover a pasta, use a opção de localizar novamente a mídia e escolha o arquivo correto.",
+    "q": "Um efeito foi testado e descartado. Como registrar?",
+    "opcoes": [
+      "Apagar a licença porque ele ficou fora da peça",
+      "Guardar como alternativa e indicar que não foi usado",
+      "Listar como presente para aumentar o inventário final"
+    ],
+    "correta": 1,
+    "observacao": "As pastas representam categorias de som. Os ícones não são nomes obrigatórios nem uma tela real de gerenciamento de arquivos. Dentro de cada categoria, separe originais, edições e exportações.",
+    "ex1": "Duda guarda a versão do projeto que corresponde à exportação aprovada.",
+    "ex2": "Sérgio encontra a xícara pelo nome do evento, sem abrir dezenas de arquivos.",
+    "tarefa": "Crie uma biblioteca que você consegue reutilizar",
+    "resumo": [
+      "Pastas: originais, edições, exportações",
+      "Nomes: objeto, ação e variante",
+      "Ficha: uso real, fonte e crédito"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "Um efeito foi testado e descartado. Como registrar?",
+        "Guardar como alternativa e indicar que não foi usado"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Você precisa conseguir reconstruir a mistura a partir do projeto e das fontes guardadas."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "a biblioteca está organizada e o projeto reaberto encontra os arquivos necessários"
+      ]
+    ]
+  },
+  {
+    "titulo": "Exporte duas versões e compare o efeito dos sons",
+    "entrega": "entregar uma peça com quatro camadas e uma comparação com e sem os três efeitos",
+    "dor": "Um projeto aberto no editor ainda não é uma entrega. A exportação pode revelar cortes, arquivos ausentes ou sons que passaram despercebidos.",
+    "antes": "Enviar o projeto sem conferir se o arquivo final toca corretamente.",
+    "depois": "Exportar A e B, abrir os dois arquivos e registrar a contribuição dos efeitos.",
+    "campos": [
+      "A: voz, música e ambiente",
+      "B: mesmas camadas e três efeitos",
+      "Entrega: dois arquivos revisados e créditos"
+    ],
+    "passos": [
+      "Confira sua montagem completa e salve duas versões. Em A, silencie apenas os três efeitos; em B, mantenha-os.",
+      "Exporte A e B com as mesmas configurações e nomes diferentes. Se faltar alguma etapa, registre a pendência sem marcar concluído.",
+      "Abra os dois arquivos fora do editor. Confira fala, duração e eventos. Entregue os arquivos, a ficha e os créditos."
+    ],
+    "molde": "Arquivo A: <exemplo A_sem_efeitos.mp4>\nArquivo B: <exemplo B_com_efeitos.mp4>\nDuração e configurações: <iguais>\nDiferença: <somente três efeitos>\nVoz clara: <observação>\nEfeitos: <contribuição ou excesso>\nCréditos: <arquivo>\nPendências: <nenhuma ou lista>",
+    "pronto": "existem duas peças exportadas, revistas fora do editor e acompanhadas dos créditos",
+    "confira": "Uma comparação útil preserva as condições e registra o que você realmente ouviu.",
+    "calma": "Se ainda falta a montagem, retome a aula correspondente. Não invente nomes de arquivos para preencher a ficha.",
+    "q": "A versão B parece melhor, mas também ganhou outra música. O que concluir?",
+    "opcoes": [
+      "A melhora foi causada com certeza pelos três efeitos",
+      "A música não interfere na comparação entre versões",
+      "O teste mistura mudanças e precisa reconhecer isso"
+    ],
+    "correta": 2,
+    "observacao": "A ilustração representa uma sessão de comparação. Use os reprodutores da aula para ouvir os arquivos reais A e B.",
+    "ex1": "Duda muda somente a presença dos efeitos para tornar a comparação compreensível.",
+    "ex2": "Sérgio abre o arquivo exportado no celular antes de compartilhar a peça.",
+    "tarefa": "Exporte duas versões e compare o efeito dos sons",
+    "resumo": [
+      "A: voz, música e ambiente",
+      "B: mesmas camadas e três efeitos",
+      "Entrega: dois arquivos revisados e créditos"
+    ],
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "cartoes": [
+      [
+        "A versão B parece melhor, mas também ganhou outra música. O que concluir?",
+        "O teste mistura mudanças e precisa reconhecer isso"
+      ],
+      [
+        "O que conferir antes de seguir?",
+        "Uma comparação útil preserva as condições e registra o que você realmente ouviu."
+      ],
+      [
+        "Qual evidência encerra esta prática?",
+        "existem duas peças exportadas, revistas fora do editor e acompanhadas dos créditos"
+      ]
+    ]
+  }
+]

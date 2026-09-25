@@ -1,0 +1,198 @@
+{
+  "slug": "audio-video-ia",
+  "title": "Áudio que Vende: Voz, Música e Sound Design v6.2",
+  "modules": [
+    {
+      "title": "Escutar, planejar e escolher fontes",
+      "promise": "Defina a função do som, organize quatro camadas e obtenha arquivos que você pode reutilizar.",
+      "topics": [
+        {
+          "title": "Som é uma escolha de atenção",
+          "concept": "Som orienta atenção, espaço e expectativa. No caso Entrelinhas, uma livraria com café convida a uma pausa. Duda, produtora, e Sérgio, dono do espaço, querem uma peça acolhedora. Um impacto agressivo pode chamar atenção e ainda assim contrariar essa intenção.",
+          "why": "Divida uma peça de vinte segundos em quatro momentos: entrada, desenvolvimento, destaque e saída. São funções narrativas, não uma fórmula obrigatória. A entrada apresenta o lugar; o desenvolvimento mostra uma ação. O destaque entrega a mensagem; a saída deixa tempo para entendê-la.",
+          "practice": "Escreva uma intenção por momento antes de escolher a música.",
+          "caution": "O título do curso trata de comunicação persuasiva, sem garantir vendas ou uma reação universal."
+        },
+        {
+          "title": "Contraste precisa ter motivo",
+          "concept": "Uma pausa curta pode destacar o som seguinte. Um ambiente contínuo ajuda a unir cortes. Um efeito pontua uma ação, enquanto a voz conduz a mensagem. Não coloque tudo forte o tempo inteiro. A atenção precisa de variação e espaço.",
+          "why": "Gênero musical traz associações, mas elas variam conforme público e contexto. Teste a mesma imagem com dois climas antes de decidir. Uma assinatura sonora é um motivo curto e reconhecível; repetir um ruído aleatório não cria identidade por si só.",
+          "practice": "Compare os áudios de demonstração quando chegar às aulas de mistura.",
+          "caution": "Não confunda emoção pretendida com emoção comprovada no público."
+        },
+        {
+          "title": "Quatro camadas, quatro perguntas",
+          "concept": "A voz diz o que precisa ser entendido. A música conduz ritmo e clima. Os efeitos destacam ações ou transições. A ambiência sugere o espaço e preenche o fundo. Esses papéis podem se sobrepor, mas separá-los facilita ouvir e corrigir.",
+          "why": "No projeto Entrelinhas, a voz convida à pausa. A música é leve. Xícara, colher e página formam os três efeitos. Um som discreto de sala mantém continuidade. Não é preciso usar todos ao mesmo tempo para provar que existem quatro camadas.",
+          "practice": "Crie uma lista de arquivos por função e mantenha a voz identificada.",
+          "caution": "Ambiência contínua não substitui um efeito pontual sincronizado com a ação."
+        },
+        {
+          "title": "A hierarquia vem antes dos ajustes",
+          "concept": "Comece ouvindo apenas a voz. Depois acrescente música, ambiente e efeitos, um de cada vez. Se uma palavra fica difícil, identifique qual camada a encobriu. Aumentar tudo mantém a disputa e pode produzir distorção.",
+          "why": "Silenciar uma camada temporariamente é um teste de diagnóstico. Se a peça melhora sem ela, reduza, encurte ou retire. A meta é função, não quantidade. Na mistura final, a voz precisa continuar clara no volume habitual de escuta.",
+          "practice": "No editor, nomeie ou reconheça as faixas e teste o botão de silenciar.",
+          "caution": "A aparência grande da onda sonora não comprova clareza da fala."
+        },
+        {
+          "title": "Registre a permissão junto do arquivo",
+          "concept": "O kit deste curso inclui música atribuída ao autor e efeitos disponibilizados sob CC0. Abra os créditos ao baixar. CC0 permite ampla reutilização; a música sob CC BY exige atribuição conforme a licença. Preserve os créditos e informe alterações feitas no trecho.",
+          "why": "Um arquivo acessível ao público ou uma assinatura de biblioteca não autoriza automaticamente distribuir o arquivo separado. Confira o uso pretendido: ouvir, incluir numa peça ou redistribuir a fonte. Para materiais de clientes, registre a condição específica antes de publicar.",
+          "practice": "Guarde uma cópia ou endereço da licença junto do nome do arquivo.",
+          "caution": "O curso é gratuito; as condições de cada fonte continuam valendo."
+        },
+        {
+          "title": "Use o caminho disponível sem perder a origem",
+          "concept": "Na comunidade, o INEMAVOX pode baixar arquivos por endereço e gerar voz. É necessário ter acesso à instância oferecida pelo responsável. Não existe uma conta pública universal presumida. Se você não tem esse acesso, use o kit pronto desta aula ou baixe diretamente da fonte autorizada.",
+          "why": "O kit foi obtido pelo recurso de baixar arquivos do INEMAVOX. Os efeitos são prévias em MP3 disponibilizadas pelas fontes, adequadas para os exercícios. Não foram usados os quatro áudios privados do acervo de referência. Para entregar a um cliente, confira a qualidade e a licença do arquivo escolhido.",
+          "practice": "Renomeie uma cópia com objeto, ação e variante, mantendo os créditos.",
+          "caution": "Não cole endereços de conteúdos privados em serviços externos sem autorização."
+        }
+      ]
+    },
+    {
+      "title": "Voz e música com intenção",
+      "promise": "Produza uma fala curta, corrija frases e escolha música que deixe espaço para a mensagem.",
+      "topics": [
+        {
+          "title": "Escreva para a boca e para o tempo",
+          "concept": "Use frases curtas e palavras que você falaria. Leia o roteiro em voz alta e observe a duração no gravador. Para Entrelinhas: Entre uma página e outra, faça uma pausa. Aqui, você encontra café e boas histórias. Escolha seu próximo capítulo.",
+          "why": "Você pode gravar a própria voz num lugar tranquilo. Mantenha distância estável do microfone e evite falar diretamente sobre ele. Faça um teste e ouça antes de gravar tudo. Para síntese, escolha português e uma voz disponível, sem presumir que o nome existe em todo serviço.",
+          "practice": "Grave duas leituras de uma frase e compare clareza, ritmo e ruído.",
+          "caution": "Não tente corrigir um roteiro excessivo acelerando a voz até perder a compreensão."
+        },
+        {
+          "title": "Gere e confira o arquivo real",
+          "concept": "No INEMAVOX autorizado, abra a área de texto para voz, escolha o mecanismo e a voz disponíveis e envie o texto. Aguarde o trabalho terminar, baixe e ouça. Sem acesso, grave você mesmo. O exemplo do kit foi sintetizado no INEMAVOX com Chatterbox.",
+          "why": "ElevenLabs é alternativa: entre em Text to Speech, escolha uma voz e o modelo adequado. No Eleven v3, marcações de atuação entre colchetes podem orientar a fala. Elas não são comandos universais para outros modelos. Confira o resultado, a pronúncia dos nomes e eventuais palavras omitidas.",
+          "practice": "Produção adicional: gere outra versão somente se houver uma diferença concreta a testar.",
+          "caution": "Conta, recursos, limites e custos precisam ser conferidos antes da geração."
+        },
+        {
+          "title": "Localize a falha pelo ouvido",
+          "concept": "Abra o CapCut e crie um projeto. Importe seu vídeo ou imagens e o arquivo de voz. Arraste-os para a linha do tempo, onde as faixas representam a sequência. Amplie a região da frase e posicione o cursor antes e depois dela.",
+          "why": "Use dividir para separar o trecho, preservando a cópia original. Não corte no meio de uma palavra ou respiração importante. Se o problema é texto, grave ou gere a frase corrigida com a mesma voz. Se é apenas silêncio excessivo, reduza o intervalo com cuidado.",
+          "practice": "Marque o início e o fim da frase problemática antes de editar.",
+          "caution": "Uma onda pequena pode ser uma sílaba fraca; não apague só pela aparência."
+        },
+        {
+          "title": "Ouça a emenda no contexto",
+          "concept": "Coloque a frase corrigida no lugar da antiga e ajuste o espaço entre elas. Compare volume, timbre e ritmo. Um fade, entrada ou saída gradual do som, suaviza a borda, mas não conserta uma palavra cortada. Ouça a frase anterior, a nova e a seguinte juntas.",
+          "why": "Se a voz parece mudar de pessoa, tente uma nova tomada com configuração consistente. Não empilhe duas versões simultaneamente sem perceber. Exporte uma prévia curta e confira fora do editor. Se nenhuma correção é necessária, teste numa cópia e preserve a versão original.",
+          "practice": "Continuação: reveja todas as emendas depois de adicionar música.",
+          "caution": "O preview do editor não substitui conferir o arquivo exportado."
+        },
+        {
+          "title": "Clima, pulso e densidade",
+          "concept": "Compare duas possibilidades mantendo a mesma voz. Observe clima, velocidade percebida e quantidade de elementos. Instrumentos que ocupam muito espaço podem encobrir palavras mesmo sem parecer muito altos. Uma faixa instrumental simples facilita o primeiro exercício.",
+          "why": "No kit, Carefree oferece um clima leve para experimentar. Isso não prova que seja a melhor escolha para qualquer livraria. Recorte um trecho que tenha entrada e saída utilizáveis. Evite terminar no meio de o início forte de uma nota ou de uma frase musical sem intenção.",
+          "practice": "Ouça a voz com música e depois silencie a música para perceber a diferença.",
+          "caution": "Uma canção famosa pode dominar a atenção e ainda exigir direitos que você não possui."
+        },
+        {
+          "title": "Geração musical é uma alternativa de produção",
+          "concept": "Se quiser criar uma opção no Suno, abra Create e escolha o modo disponível. Descreva clima, instrumentos, andamento desejado e ausência de canto para esta peça. Exemplo: instrumental acolhedor, cordas leves, percussão discreta, espaço para narração e final suave.",
+          "why": "Confira direitos e condições para baixar na sua conta antes de usar a faixa fora do serviço. As regras podem mudar entre planos e datas. Para uma versão cantada, escreva uma letra própria ou peça ao chat um rascunho original e revise. Não copie letra de terceiros.",
+          "practice": "Continuação opcional: gere e revise uma alternativa, registrando configuração, custo e condição de uso.",
+          "caution": "Ter uma assinatura hoje não comprova os direitos de qualquer arquivo criado ou baixado em outra situação."
+        }
+      ]
+    },
+    {
+      "title": "Efeitos, cortes e controle de volume",
+      "promise": "Sincronize ações, teste passagens entre planos e faça a música abrir espaço para a voz.",
+      "topics": [
+        {
+          "title": "Ambiente, ação e impacto não são iguais",
+          "concept": "Ambiência descreve o fundo contínuo. Foley é o som de uma ação física recriada ou reforçada, como xícara e página. Um impacto destaca uma revelação ou corte. A classificação ajuda a escolher, mas não obriga a usar impacto quando a cena pede delicadeza.",
+          "why": "No kit, xícara, colher e página são efeitos pontuais. Importe-os para faixas separadas e escute cada um. Posicione o começo audível no contato ou movimento relevante. O início do arquivo pode conter silêncio; alinhe pelo que se ouve, não apenas pela borda.",
+          "practice": "Assista uma ação repetidamente e mova o efeito até perceber a relação.",
+          "caution": "Um efeito por corte é um ponto de partida didático, não uma obrigação para toda montagem."
+        },
+        {
+          "title": "Descreva a ação se precisar buscar ou gerar",
+          "concept": "Um pedido útil informa objeto, ação, espaço e duração aproximada. Exemplo: xícara cerâmica pousando numa mesa de madeira, um contato curto, ambiente interno, sem fala nem música. Uma descrição genérica como som cinematográfico não identifica o evento.",
+          "why": "Para esta prática, os efeitos do kit bastam. Se usar um gerador, confirme o recurso e o custo e revise a duração real. Uma ferramenta pode acrescentar reverberação ou sons indesejados. A biblioteca própria deve guardar a versão limpa e uma nota sobre a fonte.",
+          "practice": "Continuação opcional: grave um objeto seu e compare com o efeito escolhido.",
+          "caution": "Não aumente demais um ruído fraco a ponto de tornar o fundo mais alto que o evento."
+        },
+        {
+          "title": "Cinco recursos, cinco funções",
+          "concept": "Cortar antes da ação prepara expectativa. Cortar durante o movimento ajuda a ligar dois enquadramentos. No corte J, o som da próxima cena chega antes da imagem. No corte L, o som da cena anterior continua depois da troca visual. O quinto recurso é uma pausa intencional antes do destaque.",
+          "why": "Esses recursos não precisam aparecer todos na mesma peça. Escolha um problema que deseja resolver. Uma virada de página pode começar antes de mostrar o livro. Uma fala pode continuar sobre a imagem da xícara. Descreva qual som pertence a qual cena antes de mover as faixas.",
+          "practice": "Desenhe duas faixas, imagem e som, para visualizar o deslocamento.",
+          "caution": "Um som contínuo sob dois planos não comprova sozinho que você criou um corte J ou L."
+        },
+        {
+          "title": "Teste numa cópia da sequência",
+          "concept": "Duplique ou salve uma versão do projeto antes de mudar a passagem. No CapCut, mantenha áudio e vídeo separados quando precisar deslocar só o som. Escolha dois planos e deixe o som seguinte entrar um pouco antes da mudança visual. Depois teste a alternativa de prolongar o som anterior.",
+          "why": "Ouça e assista cada versão. Confira se a passagem ficou mais compreensível e se o evento ainda parece intencional. Um deslocamento grande pode sugerir uma ação fora de sincronia. Volte ao corte simples quando a mudança não ajuda.",
+          "practice": "Continuação: teste os outros recursos em cenas adequadas, um por vez.",
+          "caution": "Não desloque toda a narração sem verificar as relações com o restante das imagens."
+        },
+        {
+          "title": "Ducking é uma mudança de nível no tempo",
+          "concept": "Ducking significa reduzir uma camada quando outra precisa aparecer. Aqui, a música baixa durante a voz e volta depois. Pode ser automático, quando o editor oferece o recurso, ou manual. O objetivo é preservar palavras sem fazer a música saltar de volume a cada sílaba.",
+          "why": "Comece por uma frase. Escute voz e música juntas e localize onde a primeira palavra precisa de espaço. A redução deve chegar a tempo de preservá-la. A volta pode ser gradual, acompanhando a pausa e a intenção da peça.",
+          "practice": "Compare uma redução suave e outra abrupta para perceber a diferença.",
+          "caution": "Não existe um único valor de volume adequado para arquivos com níveis tão diferentes."
+        },
+        {
+          "title": "Quatro pontos tornam o ajuste visível",
+          "concept": "Selecione a música no CapCut e localize Volume. Posicione o cursor antes da fala e use o controle de adicionar ponto, geralmente um losango. O primeiro guarda o nível original. No começo da fala, adicione o segundo com volume reduzido. No fim, adicione o terceiro mantendo esse nível baixo. Depois da fala, adicione o quarto no nível inicial.",
+          "why": "Esses pontos são chamados keyframes: guardam valores em momentos da edição. Se o recurso não existir, use Dividir para separar trechos da música. Ajuste Volume em cada trecho e Fade nas junções. Fade significa entrada ou saída gradual do som. Ouça a passagem e exporte uma prévia para conferir.",
+          "practice": "Produção adicional: repita o ajuste nas demais falas, sem copiar valores cegamente.",
+          "caution": "Um fade muito longo pode abaixar a música cedo demais ou cobrir a primeira palavra."
+        }
+      ]
+    },
+    {
+      "title": "Mistura, biblioteca e entrega",
+      "promise": "Revise a hierarquia em aparelhos diferentes, organize os arquivos e exporte uma comparação com e sem efeitos.",
+      "topics": [
+        {
+          "title": "Escute uma camada e depois o conjunto",
+          "concept": "Ouça primeiro a voz sozinha, depois acrescente música, ambiente e efeitos. Anote o instante em que a clareza muda. Se o problema aparece com um efeito, reduza ou reposicione esse efeito. Não altere todas as faixas ao mesmo tempo, pois você perde a causa da mudança.",
+          "why": "O indicador de nível ajuda a perceber picos e possível saturação, mas o ouvido continua necessário. Distorção pode soar áspera ou estalada. Reduza o nível da fonte problemática e confira novamente. Nenhum número único garante qualidade em todos os arquivos, aparelhos e destinos.",
+          "practice": "Use volume de escuta confortável e constante para comparar ajustes.",
+          "caution": "Aumentar o volume do aparelho pode esconder uma mistura fraca sem resolver o arquivo."
+        },
+        {
+          "title": "Silêncio também precisa ser conferido",
+          "concept": "Uma pausa pode valorizar o convite final. Silêncio digital absoluto e ambiente discreto produzem sensações diferentes. Teste a retirada de uma camada e escute se a passagem ficou natural. Fades suavizam bordas, mas não devem apagar ataques importantes nem cortar palavras.",
+          "why": "Exporte uma prévia e ouça no fone e no alto-falante do celular. Se só houver um aparelho, registre essa limitação e faça o segundo teste depois. Confira a mensagem sem olhar o roteiro. Pergunte a outra pessoa o que entendeu quando isso for possível.",
+          "practice": "Continuação: repita a revisão após qualquer alteração de voz ou música.",
+          "caution": "Uma segunda escuta informal não é pesquisa de público nem comprovação de resultado comercial."
+        },
+        {
+          "title": "Nomeie pelo evento e pela variante",
+          "concept": "Use nomes que indiquem objeto, ação e versão. Exemplos: xicara_mesa_curto_01 e pagina_virada_suave_01. Separe arquivos originais, trechos editados e misturas exportadas. Não sobrescreva a fonte quando fizer um corte ou alterar o volume.",
+          "why": "Uma biblioteca pequena e conhecida vale mais que centenas de arquivos nunca ouvidos. Guarde duração, qualidade percebida e uso típico numa ficha. O nome não precisa conter todas as informações; a ficha preserva detalhes e licença sem ficar ilegível.",
+          "practice": "Renomeie cópias do kit e confira se o editor ainda encontra os arquivos usados.",
+          "caution": "Mover arquivos depois de editar pode quebrar vínculos no projeto; mantenha uma pasta estável."
+        },
+        {
+          "title": "Registre o que foi usado de verdade",
+          "concept": "A entrega precisa listar os sons presentes, seus créditos e as alterações. Uma alternativa descartada pode continuar na biblioteca, mas não deve aparecer como parte da mistura final. Salve também a versão do projeto que corresponde ao arquivo exportado.",
+          "why": "Para uma assinatura sonora, guarde o motivo aprovado e seus limites de uso. Não chame qualquer efeito baixado de identidade exclusiva da marca. Se quiser exclusividade, isso exige criação e condições próprias. Neste curso, o kit serve para aprendizagem e montagem de exemplos.",
+          "practice": "Continuação: aplique a mesma organização à próxima peça e revise os nomes que causaram dúvida.",
+          "caution": "Organização não substitui conferir os direitos de cada novo uso."
+        },
+        {
+          "title": "A comparação precisa mudar uma coisa",
+          "concept": "Salve duas versões da mesma sequência. Na versão A, mantenha voz, música e ambiente, mas silencie os três efeitos. Na versão B, mantenha também xícara, colher e página. Preserve os demais níveis, duração e imagem. Assim, a comparação ajuda a perceber o papel dos efeitos.",
+          "why": "O exemplo sonoro deste curso permite ouvir A e B. É uma mistura didática, não uma demonstração de desempenho comercial. No seu projeto, você pode usar um vídeo próprio ou três fotos. Se usar fotos, descreva a peça como montagem de imagens, sem alegar sincronização de ações filmadas.",
+          "practice": "Compare primeiro a clareza da voz e depois a contribuição dos efeitos.",
+          "caution": "Não compare versões com música, duração e voz diferentes e atribua tudo aos efeitos."
+        },
+        {
+          "title": "Confira os arquivos fora do projeto",
+          "concept": "No CapCut, use Exportar e escolha formato e resolução adequados à sua peça. Para o exercício, mantenha as duas versões com as mesmas configurações. Dê nomes distintos, espere concluir e abra ambos num reprodutor. Confira começo, fim, fala e os três eventos sonoros.",
+          "why": "Inclua a ficha de fontes e o crédito da música na entrega. Se publicar, revise as condições de cada arquivo no destino escolhido. A publicação é opcional; a conclusão exige os arquivos reais e sua revisão. Etapas ausentes continuam pendentes até serem executadas.",
+          "practice": "Produção adicional necessária: retome qualquer etapa ainda sem arquivo antes de apresentar o projeto como concluído.",
+          "caution": "Ouvir o exemplo pronto do curso não substitui exportar e conferir sua própria montagem."
+        }
+      ]
+    }
+  ]
+}
