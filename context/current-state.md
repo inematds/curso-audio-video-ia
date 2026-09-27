@@ -1,3 +1,3 @@
 # Estado atual
 
-12 aulas, auditoria 12/12 nota10, motor26/26, leitores simulados todas>=9. Kit com oito MP3 e créditos. Arquivos decodificados no navegador, medições sem pico acima de0dBFS, texto da voz conferido por transcrição Groq. Não houve avaliação auditiva humana nem execução das práticas no CapCut.
+Conteúdo 1.1.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.

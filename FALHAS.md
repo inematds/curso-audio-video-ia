@@ -1,6 +1,7 @@
 # Falhas
 
 | data | o que quebrou | menor correção | prompt ou infra |
+| 2026-09-27 | A guarda de dígitos rejeitou vinte traduzido como 20 em duas unidades EN/ES | Manter vinte/veinte por extenso nesses dois trechos | prompt |
 | 2026-09-25 | Teste de mídia iniciou antes do fim da gravação do MP3 | Aguardar a geração antes de carregar no navegador | infra |
 | 2026-09-25 | Transientes reduziram demais o nível médio da mistura | Controlar picos da voz e efeitos antes de somar as camadas | infra |
 | 2026-09-25 | Ducking omitia terceiro ponto de volume e ação para inserir pontos | Explicitar quatro pontos e alternativa Dividir, Volume e Fade | prompt |
@@ -11,3 +12,4 @@
 | 2026-09-25 | Personagens variaram nas imagens 4 e 12 | Editar usando a imagem 1 como referência | prompt |
 | 2026-09-25 | Cartões de fala viraram cenas sem relação na imagem 5 | Substituir por cartões de roteiro com linhas | prompt |
 | 2026-09-25 | Transcrição da primeira voz divergiu no verbo da frase central | Simplificar a frase e gerar uma nova tomada para conferir | prompt |
+| 2026-09-27 | URL de licença ultrapassava largura do celular nos créditos | Aplicar overflow-wrap:anywhere no conteúdo; browser PT/EN/ES passou | infra |
